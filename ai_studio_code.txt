@@ -1,0 +1,23 @@
+# Publinx: Artist Publishing Hub
+
+A centralized dashboard for music artists to access all necessary publishing, royalty, and registration services. Features an autofill helper to streamline repetitive form submissions.
+
+## Features
+- **Centralized Dashboard**: Access all your essential music publishing links in one place.
+- **Autofill Helper**: Save your common artist information (PRO numbers, IPI, publisher info) to quickly copy-paste into registration forms.
+- **Categorized Links**: Services are organized by category (PROs, Distributors, SoundExchange, etc.).
+- **Drag & Drop Reordering**: Customize the order of your links to suit your workflow.
+- **Search & Filter**: Quickly find the specific service you need.
+
+## Tech Stack
+- React 19
+- TypeScript
+- Tailwind CSS
+- Vite
+
+## Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone <your-repo-url>
+   cd publinx
